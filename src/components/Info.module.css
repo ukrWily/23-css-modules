@@ -8,3 +8,7 @@
 .myOtherButton{
   background-color: coral;
 }
+/* works globally */
+h2{
+  color: blue;
+}
